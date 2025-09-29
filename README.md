@@ -40,7 +40,7 @@
 ---
 
 ## 📜 Certifications
-- 📨 Email Writing Skills – Infosys Springboard  
+
 - 🔐 Fundamentals of Encryption & Quantum Safe Techniques – IBM  
 - ☁️ Introduction to Cloud – IBM Developer Skills Network  
 - 🔒 Privacy & Security in Online Social Media – NPTEL (Govt. of India)  
