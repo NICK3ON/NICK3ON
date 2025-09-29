@@ -1,24 +1,27 @@
-
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Runs every day at midnight
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Generate Snake
-        uses: Platane/snk@master
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: NICK3ON
           outputs: dist/github-contribution-grid-snake.svg
-      - name: Push Snake
-        uses: EndBug/add-and-commit@v7
+
+      - name: Push Snake Animation to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          message: "Generate Snake"
-          add: "dist/github-contribution-grid-snake.svg"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
