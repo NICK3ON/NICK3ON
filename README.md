@@ -1,6 +1,6 @@
 <!-- Profile Header with Animation -->
 <h1 align="center">Hey there 👋, I'm Nickson Anthony Pereira</h1>
-<h3 align="center">🚀 MCA Student | Full-Stack Developer | Game Dev Enthusiast | AI Explorer</h3>
+<h3 align="center">🚀  Full-Stack Developer | Game Dev Enthusiast | AI Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Full+Stack+Developer;Game+Developer+%7C+Unreal+Engine;AI+%26+ML+Enthusiast;Open+Source+Contributor;Lifelong+Learner+%F0%9F%92%AA" alt="Typing Animation" />
