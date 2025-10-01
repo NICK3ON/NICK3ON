@@ -34,7 +34,7 @@
 
 - **Dooms Island Survival Game** *(Unreal Engine)* – Core mechanics: resource gathering, crafting, and health system  
 - **Self-Driving Simulator** *(In Development)* – Vehicle physics, LiDAR, GPS, ML stubs for autonomous driving  
-- **College Fest Website (InfoVision 2025)** – Landing page + event registration  
+- **College Fest Website (InfoVision 2025)** – Landing page + event registration + Hosting/SEO
 - **iScheme Hackathon Project** – Next.js web app for government scheme discovery  
 
 ---
