@@ -20,11 +20,17 @@
 
 ## 💼 Experience  
 
-**Marketing Intern — VanillaKart (Remote)**  
-- Worked with the marketing team on multi-platform social media campaigns  
-- Improved brand visibility using **SEO and targeted digital strategies**  
-- Gained real-world exposure to **product promotion and user engagement**
+**Software Developer Intern — Haztech Innovation**  
+*Mobile Application Development*  
+- Currently developing **mobile applications** with a focus on real-world use cases  
+- Working on **UI implementation, app logic, and API integration**  
+- Involved in **debugging, testing, and performance optimization**  
+- Collaborating with team members to build **scalable and user-friendly apps**
 
+**Marketing Intern — VanillaKart (Remote)**  
+- Executed social media campaigns across multiple platforms  
+- Improved brand visibility using **SEO and targeted digital marketing strategies**  
+- Worked with the marketing team to increase user engagement
 ---
 
 ## 🏆 Featured Projects  
