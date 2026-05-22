@@ -26,11 +26,6 @@
 - Working on **UI implementation, app logic, and API integration**  
 - Involved in **debugging, testing, and performance optimization**  
 - Collaborating with team members to build **scalable and user-friendly apps**
-
-**Marketing Intern — VanillaKart (Remote)**  
-- Executed social media campaigns across multiple platforms  
-- Improved brand visibility using **SEO and targeted digital marketing strategies**  
-- Worked with the marketing team to increase user engagement
 ---
 
 ## 🏆 Featured Projects  
