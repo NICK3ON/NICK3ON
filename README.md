@@ -323,7 +323,23 @@ A survival game built using **Unreal Engine**, combining C++ and Blueprints.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NICK3ON/NICK3ON/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/NICK3ON/NICK3ON/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/NICK3ON/NICK3ON/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/NICK3ON/NICK3ON/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+
+</picture>
 
 </div>
 
