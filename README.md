@@ -269,45 +269,21 @@ A survival game built using **Unreal Engine**, combining C++ and Blueprints.
 
 # 🛠️ Tech Stack
 
-<div align="center">
-
 ### 👨‍💻 Languages
-
-<img src="https://skillicons.dev/icons?i=java,cpp,cs,python,js" />
+`Java` `C++` `C#` `Python` `JavaScript`
 
 ### 🌐 Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,angular,dotnet,flutter,laravel" />
+`Node.js` `Express` `React` `Next.js` `Angular` `.NET` `Flutter` `Laravel`
 
 ### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+`Oracle SQL` `MySQL` `MongoDB` `PostgreSQL` `PostGIS`
 
 ### 🔧 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,unreal,blender,vscode" />
-
-</div>
+`Docker` `Git` `GitHub` `Unreal Engine` `Blender` `Photoshop` `VS Code`
 
 ---
 
 # 📊 GitHub Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=NICK3ON&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
-  height="180"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NICK3ON&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
-  height="180"
-/>
-
-</div>
-
-<br>
 
 <div align="center">
 
@@ -317,6 +293,7 @@ A survival game built using **Unreal Engine**, combining C++ and Blueprints.
 />
 
 </div>
+
 ---
 
 # 🐍 My Contributions
