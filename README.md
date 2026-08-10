@@ -342,7 +342,6 @@ A survival game built using **Unreal Engine**, combining C++ and Blueprints.
 </picture>
 
 </div>
-
 ---
 
 # 🏆 GitHub Trophies
