@@ -295,9 +295,15 @@ A survival game built using **Unreal Engine**, combining C++ and Blueprints.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NICK3ON&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="180"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=NICK3ON&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
+  height="180"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NICK3ON&layout=compact&hide_border=true&langs_count=8" height="180"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NICK3ON&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
+  height="180"
+/>
 
 </div>
 
@@ -305,10 +311,12 @@ A survival game built using **Unreal Engine**, combining C++ and Blueprints.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=NICK3ON&hide_border=true" />
+<img
+  src="https://streak-stats.demolab.com/?user=NICK3ON&theme=tokyonight&hide_border=true"
+  height="180"
+/>
 
 </div>
-
 ---
 
 # 🐍 My Contributions
