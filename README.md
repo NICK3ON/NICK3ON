@@ -333,10 +333,12 @@ A survival game built using **Unreal Engine**, combining C++ and Blueprints.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NICK3ON&theme=flat&no-frame=true&margin-w=10&row=1" />
+<img
+  src="https://github-profile-trophy.vercel.app/?username=NICK3ON&theme=tokyonight&no-frame=true&margin-w=10&row=1"
+  alt="GitHub Trophies"
+/>
 
 </div>
-
 ---
 
 # 📜 Certifications
